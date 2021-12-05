@@ -24,7 +24,7 @@
 <img align="left" alt="SQL" width="33" src="https://3wa.fr/wp-content/uploads/2020/04/sql-logo.png" />
 <img align ="left" alt="Hadoop Spark" width="33px" src="http://blog.ditullio.fr/wp-content/uploads/2015/10/hadoop_spark_logos.png" />
 <img align ="left" alt="Git" width="33px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align ="left" alt="Git" width="33px" src="https://simpleicons.org/icons/github.svg" />
+<img align ="left" alt="Git" width="33px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="right" src="https://komarev.com/ghpvc/?username=CleaverEFREI&label=Profile%20views&color=0e75b6&style=flat" alt="CleaverEFREI" />
 
 <br>
