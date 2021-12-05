@@ -1,6 +1,6 @@
 ### Hello World, I'm Louis 👋
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" height="400"  />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" height="300"  />
 
 ## I'm a Big Data & Machine Learning Engineer Student !
 - ✍ You can find my **end of studies project** **[here]**
