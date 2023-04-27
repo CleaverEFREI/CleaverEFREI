@@ -2,8 +2,7 @@
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" height="300"  />
 
-## I'm a Big Data & Machine Learning Engineer Student !
-- ✍ You can find my **end of studies project** **[here]**
+## I'm a Big Data & Machine Learning Engineer !
 - 💬 Ask me about ... anything, i'm broad-minded
 - 💜 Passionate about **Space** 🚀, **Esport** 🎮 and **Machine Learning** 🤖
 
